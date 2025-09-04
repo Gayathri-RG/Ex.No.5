@@ -242,7 +242,6 @@ Next Service → 20-Sep-2025.
 ### Command Pattern Output
 
 ---------------------------------------------------------
-[One-Page Summary Generated]
 
 Maintenance Report – Machine X  
 Date: 04-Sep-2025  
