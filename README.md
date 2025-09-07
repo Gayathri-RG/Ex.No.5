@@ -50,6 +50,7 @@ In this study, we analyze different **prompt patterns** for automated maintenanc
 - Q&A Pattern  
 
 These are evaluated for their **suitability, advantages, and limitations** in real-world maintenance tasks.
+<img width="600" height="500" alt="ChatGPT Image Sep 7, 2025, 12_29_48 PM" src="https://github.com/user-attachments/assets/b05c9c6a-6cac-498a-8925-4ba1ab94b8d9" />
 
 ---
 
